@@ -1,0 +1,65 @@
+\documentclass[12pt, a4paper]{book} %文章类型是book
+						%使用xelatex编译
+\usepackage{fontspec}
+%\usepackage[Bjornstrup]{fncychap}
+
+\setmainfont{方正准雅宋_GBK}	%使用宋体
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt %设置中文自动换行
+
+\renewcommand{\baselinestretch}{1.25} %正文行距
+\usepackage{titlesec}
+
+
+
+\parindent 1cm
+\parskip 0.2cm
+\topmargin 0.2cm
+\oddsidemargin 1cm
+\evensidemargin 0.5cm
+\textwidth 15cm
+\textheight 21cm
+
+
+\makeindex
+
+
+\title{图灵的礼物}
+\author{本书编写组}
+\date{June, 2013}
+
+
+\titleformat{\chapter}[display]  %Chapter格式
+  {\bfseries\Large}
+  {\filright \chaptertitlename \Huge \thechapter}
+  {1ex}
+  {\titlerule\vspace{1ex}\filleft}
+  [\vspace{1ex}\titlerule]
+
+\titleformat{\section}[display]
+  {\normalfont}
+  {\filright \footnotesize \enspace SECTION \thesection\enspace}
+  {8pt}
+ {\titlerule\vspace{1ex}\filcenter}
+  [\vspace{1ex}\titlerule]
+
+\renewcommand{\contentsname}{目~录} %中文目录名
+
+\setlength{\parindent}{2em} %段落开头空两行
+
+\usepackage{indentfirst}
+\setcounter{tocdepth}{1}  %目录深度为2
+\begin{document}
+\maketitle
+ \addcontentsline{toc}{chapter}{目录}
+\pagenumbering{roman}
+\tableofcontents
+
+\include{preface/preface}
+\pagestyle{headings}
+\pagenumbering{arabic}
+\include{goabroad/goabroad}
+\include{baoyan/baoyan}
+\include{kaoyan/kaoyan}
+\include{work/work}
+\end{document}

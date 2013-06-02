@@ -1,0 +1,18 @@
+本项目旨在编写一本服务于南大软院同学的一本小册子
+使用xelatex编译tex文件
+字体为方正准雅宋
+根目录为2013Handbook
+handbook.tex为根文件
+每个部分分别为
+root
+|-preface
+		|-preface.tex 序言
+|-goabroad
+		|-articles 目录，内存有文章，文章以作者姓名小写为文件名.例如zhangsan.tex
+		|-goabroad.tex 用于包含articles下的文件
+|-baoyan
+		|-结构同上
+|-kaoyan
+		|-结构同上
+|-work
+		|-结构同上
