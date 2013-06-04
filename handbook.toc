@@ -1,44 +1,65 @@
 \contentsline {chapter}{目录}{i}{Doc-Start}
-\contentsline {chapter}{序言}{iii}{chapter*.2}
-\contentsline {chapter}{编者记}{v}{chapter*.3}
-\contentsline {chapter}{\numberline {1}出国}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}李皓寰 UCSD}{2}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}为什么要出国?}{2}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}Phd？Professional MS？Acadmic MS？}{3}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.1.3}GRE TOEFL}{4}{subsection.1.1.3}
-\contentsline {subsection}{\numberline {1.1.4}选校}{5}{subsection.1.1.4}
-\contentsline {subsection}{\numberline {1.1.5}PS, CV}{5}{subsection.1.1.5}
-\contentsline {subsection}{\numberline {1.1.6}申请焦虑症}{6}{subsection.1.1.6}
-\contentsline {section}{\numberline {1.2}罗钊燚}{7}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}经历}{7}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}申请}{8}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}经验}{9}{subsection.1.2.3}
-\contentsline {section}{\numberline {1.3}徐达博 CMU}{10}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}把一直想说但是一直没有头绪的胡言乱语当做前言吧}{10}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}申请中最出彩的地方是什么？}{11}{subsection.1.3.2}
-\contentsline {subsubsection}{关于课程}{12}{subsubsection*.4}
-\contentsline {subsubsection}{海外战T}{12}{subsubsection*.5}
-\contentsline {subsubsection}{文书工作}{12}{subsubsection*.6}
-\contentsline {subsubsection}{交换生活}{13}{subsubsection*.7}
-\contentsline {subsection}{\numberline {1.3.3}关于一些基本要素和硬件}{13}{subsection.1.3.3}
-\contentsline {subsection}{\numberline {1.3.4}关于俺这种非CS主流去申MIS的同学}{14}{subsection.1.3.4}
-\contentsline {subsection}{\numberline {1.3.5}我在申请中的遗憾}{15}{subsection.1.3.5}
-\contentsline {subsection}{\numberline {1.3.6}写在最后还是毫无头绪的话吧}{16}{subsection.1.3.6}
-\contentsline {section}{\numberline {1.4}姚佳玮 Standford}{17}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}为什么出国}{17}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}软硬件}{18}{subsection.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3}选校和定位}{20}{subsection.1.4.3}
-\contentsline {subsection}{\numberline {1.4.4}网申}{21}{subsection.1.4.4}
-\contentsline {subsection}{\numberline {1.4.5}关于结果}{21}{subsection.1.4.5}
-\contentsline {subsection}{\numberline {1.4.6}团体作战}{22}{subsection.1.4.6}
-\contentsline {subsection}{\numberline {1.4.7}关于Stanford}{22}{subsection.1.4.7}
-\contentsline {chapter}{\numberline {2}国内保研}{25}{chapter.2}
-\contentsline {chapter}{\numberline {3}考研}{27}{chapter.3}
-\contentsline {section}{\numberline {3.1}蒋苏阳 NJU}{28}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}写在前面}{28}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}简介}{28}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}我复习了多少}{28}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}考试感觉}{29}{subsection.3.1.4}
-\contentsline {subsection}{\numberline {3.1.5}改进方法和我的建议}{30}{subsection.3.1.5}
-\contentsline {subsection}{\numberline {3.1.6}总结}{30}{subsection.3.1.6}
-\contentsline {chapter}{\numberline {4}工作}{31}{chapter.4}
+\contentsline {chapter}{序言}{v}{chapter*.2}
+\contentsline {chapter}{编者记}{vii}{chapter*.3}
+\contentsline {chapter}{\numberline {1}申请的硬性条件}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}核心的核心--GPA}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}英语水平测试--TOEFL/IELTS}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}美国研究生入学考试--GRE}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4}写出你自己--PS/CV}{2}{section.1.4}
+\contentsline {section}{\numberline {1.5}别人眼中的你--RL}{2}{section.1.5}
+\contentsline {chapter}{\numberline {2}三年你可以做什么}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}科研}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}学科竞赛}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}交换学习}{4}{section.2.3}
+\contentsline {section}{\numberline {2.4}实习}{4}{section.2.4}
+\contentsline {chapter}{\numberline {3}开始你的申请}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}选校}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}陶瓷}{6}{section.3.2}
+\contentsline {section}{\numberline {3.3}中介}{6}{section.3.3}
+\contentsline {section}{\numberline {3.4}网申管理}{6}{section.3.4}
+\contentsline {section}{\numberline {3.5}学会沟通}{6}{section.3.5}
+\contentsline {section}{\numberline {3.6}关于陶瓷}{6}{section.3.6}
+\contentsline {chapter}{\numberline {4}后Offer时代}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}占坑费}{8}{section.4.1}
+\contentsline {section}{\numberline {4.2}签证准备}{8}{section.4.2}
+\contentsline {section}{\numberline {4.3}机票预订}{8}{section.4.3}
+\contentsline {section}{\numberline {4.4}体检与疫苗}{8}{section.4.4}
+\contentsline {section}{\numberline {4.5}住宿}{8}{section.4.5}
+\contentsline {section}{\numberline {4.6}档案与户口}{8}{section.4.6}
+\contentsline {section}{\numberline {4.7}组队抱团}{8}{section.4.7}
+\contentsline {chapter}{\numberline {5}Hello, World!}{9}{chapter.5}
+\contentsline {section}{\numberline {5.1}Big Ben}{10}{section.5.1}
+\contentsline {section}{\numberline {5.2}早安温哥华}{10}{section.5.2}
+\contentsline {section}{\numberline {5.3}富士山下}{10}{section.5.3}
+\contentsline {section}{\numberline {5.4}维多利亚湾}{10}{section.5.4}
+\contentsline {chapter}{\numberline {6}随想集}{11}{chapter.6}
+\contentsline {section}{\numberline {6.1}李皓寰 UCSD}{12}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}为什么要出国?}{12}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Phd？Professional MS？Acadmic MS？}{13}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}GRE TOEFL}{14}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}选校}{15}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}PS, CV}{15}{subsection.6.1.5}
+\contentsline {subsection}{\numberline {6.1.6}申请焦虑症}{16}{subsection.6.1.6}
+\contentsline {section}{\numberline {6.2}罗钊燚}{17}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}经历}{17}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}申请}{18}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}经验}{19}{subsection.6.2.3}
+\contentsline {section}{\numberline {6.3}徐达博 CMU}{20}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}把一直想说但是一直没有头绪的胡言乱语当做前言吧}{20}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}申请中最出彩的地方是什么？}{21}{subsection.6.3.2}
+\contentsline {subsubsection}{关于课程}{22}{subsubsection*.4}
+\contentsline {subsubsection}{海外战T}{22}{subsubsection*.5}
+\contentsline {subsubsection}{文书工作}{22}{subsubsection*.6}
+\contentsline {subsubsection}{交换生活}{23}{subsubsection*.7}
+\contentsline {subsection}{\numberline {6.3.3}关于一些基本要素和硬件}{23}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}关于俺这种非CS主流去申MIS的同学}{24}{subsection.6.3.4}
+\contentsline {subsection}{\numberline {6.3.5}我在申请中的遗憾}{25}{subsection.6.3.5}
+\contentsline {subsection}{\numberline {6.3.6}写在最后还是毫无头绪的话吧}{26}{subsection.6.3.6}
+\contentsline {section}{\numberline {6.4}姚佳玮 Standford}{27}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}为什么出国}{27}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}软硬件}{28}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}选校和定位}{30}{subsection.6.4.3}
+\contentsline {subsection}{\numberline {6.4.4}网申}{31}{subsection.6.4.4}
+\contentsline {subsection}{\numberline {6.4.5}关于结果}{31}{subsection.6.4.5}
+\contentsline {subsection}{\numberline {6.4.6}团体作战}{32}{subsection.6.4.6}
+\contentsline {subsection}{\numberline {6.4.7}关于Stanford}{32}{subsection.6.4.7}

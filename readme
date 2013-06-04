@@ -3,16 +3,29 @@
 字体为方正准雅宋
 根目录为2013Handbook
 handbook.tex为根文件
-每个部分分别为
+==================6/4/2013 14:10 更新文件目录结构==================
 root
+|-readme
 |-preface
 		|-preface.tex 序言
-|-goabroad
-		|-articles 目录，内存有文章，文章以作者姓名小写为文件名.例如zhangsan.tex
-		|-goabroad.tex 用于包含articles下的文件
-|-baoyan
-		|-结构同上
-|-kaoyan
-		|-结构同上
-|-work
-		|-结构同上
+		|-bianzhesay.tex 编者记
+|-1essential
+		|-essential.tex 记录申请的硬性材料：GPA|托福雅思|GRE|PS与CV|推荐信		
+|-2background
+		|-background.tex 讲述如何拓展你的背景：科研|学科竞赛|交换学习|实习
+|-3apply
+		|-apply.tex 申请过程中的方法和技巧：选校|陶瓷|中介|网申管理|和小蜜沟通
+|-4postoffer
+		|-postoffer.tex 后Offer时代需要做的事情：占坑费|签证准备|机票预订|体检与疫苗|住宿|档案和户口|组队抱团
+|-5allworld
+		|-allworld.tex 不同国家申请的感想：英国|加拿大|日本|香港
+|-6reflection
+		|-reflection.tex 个人总结、感悟、杂文、随想
+|-垃圾箱
+		|-xx 过期的材料、文件
+|-方正准雅宋_GBK.TTF 全文使用的中、英文字体
+|-handbook.tex 本书主文件
+|-若干handbook.xx 编译产物
+|-handbook.pdf 本书
+|-.gitattributes github文件
+|-.gitignore github忽略上传的文件，记录不上传文件后缀名
