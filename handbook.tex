@@ -1,9 +1,11 @@
-\documentclass[12pt, a4paper]{book} %文章类型是book
+\documentclass[oneside, 12pt, a4paper]{book} %文章类型是book
 						%使用xelatex编译
 %\usepackage[Bjornstrup]{fncychap}
 \usepackage{xltxtra,fontspec,xunicode}
 \usepackage[BoldFont]{xeCJK}
-
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{tikz,ifthen}
+\usepackage{longtable}
 \setCJKmainfont[BoldFont=方正特雅宋_GBK]{方正准雅宋_GBK}	%使用宋体
 \setmainfont{Arial}
 \XeTeXlinebreaklocale "zh"
@@ -13,7 +15,10 @@
 \usepackage{titlesec}
 \newcommand{\sectionbreak}{\clearpage}
 
-\usepackage{hyperref}
+\usepackage{hyperref}%超链接
+
+\usepackage{xcolor,graphicx}%插入图片
+\usepackage{float}
 
 \usepackage{geometry}%页间距
 \geometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm}
@@ -23,7 +28,7 @@
 
 
 \title{图灵的礼物}
-\author{本书编写组}
+\author{09 SEers}
 \date{June, 2013}
 
 
@@ -57,12 +62,15 @@
 \usepackage{indentfirst}
 \setcounter{tocdepth}{1}  %目录深度为2
 \begin{document}
-\maketitle
- \addcontentsline{toc}{chapter}{目录}
+\include{0cover/cover}
+\include{0cover/second}
+\addcontentsline{toc}{chapter}{目录}
 \pagenumbering{roman}
 \tableofcontents
 \include{preface/preface}
 \include{preface/bianzhesay}
+\include{0cover/result}
+%\pagestyle{plain}
 \pagestyle{headings}
 \pagenumbering{arabic}
 \include{1essential/essential}

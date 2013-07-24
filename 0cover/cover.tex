@@ -1,0 +1,75 @@
+\clearpage
+%% temporary titles
+% command to provide stretchy vertical space in proportion
+\newcommand\nbvspace[1][3]{\vspace*{\stretch{#1}}}
+% allow some slack to avoid under/overfull boxes
+\newcommand\nbstretchyspace{\spaceskip0.5em plus 0.25em minus 0.25em}
+% To improve spacing on titlepages
+\newcommand{\nbtitlestretch}{\spaceskip1em}
+\pagestyle{empty}
+
+
+\begin{figure}[h]
+\includegraphics[width=4cm,height=2cm]{0cover/icons.eps}
+\end{figure}\par
+
+\begin{center}
+\bfseries
+\nbvspace[3]
+%\Huge
+%{\nbtitlestretch  \fontsize{36pt}{2}\selectfont 图灵的礼物}
+
+%\nbvspace[1] 
+%\fontsize{20pt}{15pt}\selectfont 南京大学~飞跃手册
+
+%\small BY\\
+%\small 09~SEers\\
+
+\begin{tikzpicture}
+
+    \coordinate (A) at (0,0);
+    \coordinate (B) at (-60:6cm);
+    \coordinate (C) at (240:6cm);
+    \foreach \density in {20,30,...,160}{%
+        \draw[fill=MidnightBlue!\density] (A)--(B)--(C)--cycle;
+        \path
+             (A) coordinate (X)
+          -- (B) coordinate[pos=.15](A)
+          -- (C) coordinate[pos=.15](B)
+          -- (X) coordinate[pos=.15](C);
+
+    }
+\end{tikzpicture}
+
+%\footnotesize You got a dream, you gotta protect it.
+
+
+\nbvspace[3]
+\normalsize
+\begin{tikzpicture}[remember picture, overlay]
+    \usetikzlibrary{calc}
+	\draw[draw=none,fill=MidnightBlue!20] (current page.south west) rectangle
+		($(current page.south east)+(0,3.5\paperheight/10)$);
+	\draw[draw=none,fill=MidnightBlue!30] (current page.south west) rectangle
+		($(current page.south east)+(0,1.3\paperheight/10)$);
+
+
+	\draw[anchor=center] ($(current page.south west)+(0.5\paperwidth,  7\paperheight/10)$) node[yshift=0.5em]
+		{\textcolor{black}{\fontsize{44pt}{2}\selectfont 图灵的礼物}};
+
+	\draw[anchor=center] ($(current page.south west)+(0.5\paperwidth,  7\paperheight/10)$) node[yshift=-4.5em]
+		{\textcolor{black}{\fontsize{20pt}{2}\selectfont 南京大学~软件学院}};
+
+	\draw[anchor=center] ($(current page.south west)+(0.5\paperwidth,  7\paperheight/10)$) node[yshift=-7em]
+		{\textcolor{black}{\fontsize{16pt}{2}\selectfont 飞跃手册}};
+
+	\draw[anchor=center] ($(current page.south west)+(0.5\paperwidth,  3\paperheight/10)$) node[yshift=-4em]
+		{\textcolor{white}{\Large "You got a dream, you gotta protect it."}};
+
+\end{tikzpicture}
+%July, 2013\\
+%\large
+%PUBLISHED AT NANJING
+%\nbvspace[1]
+\end{center}
+\clearpage
